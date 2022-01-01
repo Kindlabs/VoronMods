@@ -1,6 +1,6 @@
 # Kind Labs's Klicky Mod
 
-(images/front.png)
+![FrontView](images/front.png)
 
 ## Voron V2 Clockwork 2 Direct Mount MGN12 X Carriage
 

@@ -1,5 +1,7 @@
 # Kind Labs's Klicky Mod
 
+(images/front.png)
+
 ## Voron V2 Clockwork 2 Direct Mount MGN12 X Carriage
 
 This is a modified Clockwork 2 X carriage for the Voron 2.4 which directly interfaces

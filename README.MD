@@ -5,7 +5,7 @@
 ## Voron V2 Clockwork 2 Direct Mount MGN12 X Carriage
 
 This is a modified Clockwork 2 X carriage for the Voron 2.4 which directly interfaces
-with the Klicky. This is based on [BluedragonX's Klicky Carriage][1] which is based on [Arkeet's MGN12 carriage][2].
+with the Klicky. This is based on [BluedragonX's Klicky Carriage][1].
 
 The primary benefits of this approach are more rigid mounting of probe and
 reduced offset from the nozzle. Hotend airflow may also be improved as the rear
@@ -40,4 +40,3 @@ Both dock mounts are 4mm shorter in the Z direction. The fixed dock mount is als
 
 
 [1]: https://github.com/jlas1/Klicky-Probe/tree/main/Usermods/bluedragonx "BluedragonX's Klicky Carriage"
-[2]: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/arkeet/mgn12 "Arkeet's MGN12 Carriage"

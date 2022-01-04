@@ -22,7 +22,7 @@ You will need to print each of the following:
 - KlickyCW2_x_carriage_frame_left.stl
 - KlickyCW2_x_carriage_frame_right.stl
 
-And one of the two dock mounts from BluedragonX's Klicky Carriage:
+And one of the two dock mounts from (Credit: [BluedragonX's Klicky Carriage][1]):
 
 - v2.4_x_carriage_dock_mount_fixed.stl
 - v2.4_x_carriage_dock_side_mount_fixed.stl

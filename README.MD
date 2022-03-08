@@ -39,4 +39,4 @@ The only value you should need to adjust is the y_offset for the probe. The new 
 Both dock mounts are 4mm shorter in the Z direction. The fixed dock mount is also 2mm longer in the Y direction.
 
 
-[1]: https://github.com/jlas1/Klicky-Probe/tree/main/Usermods/bluedragonx "BluedragonX's Klicky Carriage"
+[1]: https://github.com/jlas1/Klicky-Probe/tree/main/Printers/Voron/v1.8_v2.4_Legacy_Trident/Usermods/bluedragonx "BluedragonX's Klicky Carriage"
